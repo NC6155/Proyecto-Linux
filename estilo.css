@@ -24,7 +24,7 @@ header{
     color:rgb(88, 195, 227);
     padding: 20px 0;
     border-radius: 8px 8px 0 0;
-    background-image: url('./img/fondo.avif');
+    background-image: url('https://bucket-evaluacion-linux-nc.s3.us-east-1.amazonaws.com/2024-12-31_20.18.45.png');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
@@ -32,7 +32,7 @@ header{
 
 header figure img{
     border-radius: 50%;
-    border: 5px solid #216cae;
+    border: 5px solid #42a723;
     box-shadow: 0 0 10px;
 }
 
@@ -46,7 +46,7 @@ header h2{
 }
 
 .container{
-  background-color: blue;
+  background-color: rgb(0, 255, 76);
   width: 80%;
   margin: 0 auto;
   position: relative;
